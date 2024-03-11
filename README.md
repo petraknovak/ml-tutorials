@@ -5,3 +5,9 @@ A Jupyter Notebook dedicated to each algorithm, providing concise hands-on code 
 
 ### data_augmentation.ipynb
 There are two general methods for balancing data: majority undersampling, and minority oversampling. This notebook covers random undersampling and oversampling and expands on the latter with SMOTE (Synthetic Minority Over-sampling Technique).
+### reinforcment learning
+
+### tf-idf and word2vec comparison
+
+### Simple SVD-based (Singular Value Decomposition) recommender system on a toy dataset
+
